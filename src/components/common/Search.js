@@ -4,7 +4,7 @@ import { Collapse, CardBody, Card } from 'reactstrap';
 class Search extends Component {
     state = {
         text: '',
-        postcode: 'LS13 3QB',
+        postcode: 'DN12 3ED',
         distance: 5,
         minPrice: 0,
         maxPrice: 10,

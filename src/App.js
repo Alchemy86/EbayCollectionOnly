@@ -35,7 +35,7 @@ class App extends Component {
       category: "0", 
       item: submissionData?.text,
       pageNumber: submissionData?.page || 1,
-      postcode: submissionData?.postcode || "LS13 3QB",
+      postcode: submissionData?.postcode || "DN12 3ED",
       sortby: "ends"});
       console.log('Ebay Data', ebayData.data.data);
     
